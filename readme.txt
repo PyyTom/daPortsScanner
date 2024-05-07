@@ -1,0 +1,1 @@
+It scans all ports and gives back if open or closed, from a specified Ip
